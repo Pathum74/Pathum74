@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Pathum</h1>
+<h1 align="center">Hi 👋, I'm Pathum</h1>
 <p></p>
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74 GitHub Stats" style="height: 200px; margin-right: 10px;" />
@@ -18,8 +18,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" /></a></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&show_icons=true&locale=en&layout=compact" alt="pathum74" /></p>
+
 <h2>❤️ Support Me</h2>
 <p><p>
 <a href="https://www.buymeacoffee.com/pathum74">
