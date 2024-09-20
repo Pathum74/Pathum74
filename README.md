@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Pathum</h1>
 <p></p>
-<div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74 GitHub Stats" style="height: 200px; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&show_icons=true&locale=en&layout=compact" alt="pathum74 Top Languages" style="height: 200px;" />
+<div style="display: flex; justify-content: center; ">
+  <img src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74 GitHub Stats" style="height: 200px; align-items: right; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&show_icons=true&locale=en&layout=compact" alt="pathum74 Top Languages" style="height: 200px; align-items: left;" />
 </div>
 
 <div align="center">
