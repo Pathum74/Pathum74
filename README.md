@@ -2,7 +2,7 @@
 <p></p>
 <div style="display: flex; justify-content: space-between; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74 GitHub Stats" style="height: 200px; margin-right: 30px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&show_icons=true&locale=en&layout=compact" alt="pathum74 Top Languages" style="height: 200px; margin-left: 30px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&show_icons=true&locale=en&layout=compact" alt="pathum74 Top Languages" style="height: 200px; width: 45%; margin-left: 30px;" />
 </div>
 
 
