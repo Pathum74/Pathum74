@@ -1,9 +1,10 @@
 <h1>Hi 👋, I'm Pathum</h1>
 <p></p>
-<div style="display: flex; justify-content: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74 GitHub Stats" style="width: 45%; margin-right: 10px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&show_icons=true&locale=en&layout=compact" alt="pathum74 Top Languages" style="width: 45%;" />
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74 GitHub Stats" style="height: 200px; margin-right: 10px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&show_icons=true&locale=en&layout=compact" alt="pathum74 Top Languages" style="height: 200px;" />
 </div>
+
 
 <h2>🚀 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
