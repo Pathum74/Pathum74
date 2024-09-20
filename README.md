@@ -9,6 +9,6 @@
 
 <p><img align="left" width="45%" height="25%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&show_icons=true&locale=en&layout=compact" alt="pathum74" /></p>
 
-<p>&nbsp;<img align="center"  width="45%" height="35%" src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74" /></p>
+<p>&nbsp;<img align="center"  width="45%" height="55%" src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74" /></p>
 
 
