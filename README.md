@@ -1,14 +1,23 @@
-<h1 align="center">Hi 👋, I'm Pathum</h1>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pathum74" alt="pathum74" /></a> </p>
+<p align="left">Hello World!!</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
+</div>
 
+###
 
-<p><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&show_icons=true&locale=en&layout=compact" alt="pathum74" /></p>
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&locale=en" alt="pathum74" /></p>
-
-
+###
