@@ -37,16 +37,22 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&layout=compact&langs_count=6&theme=default&hide_border=true" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pathum74&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="155" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pathum74&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="155" alt="Top Languages" />
 </div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pathum74&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" height="155" alt="GitHub Streak" />
+</div>
+
+
 
 ---
 
 ### 🏆 Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=pathum74&theme=flat&column=-1&row=1&margin-w=8&no-frame=true" height="130" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app?username=pathum74&theme=algolia&column=-1&row=1&margin-w=6&margin-h=6&no-frame=true" height="135" alt="Trophies" />
 </div>
 
 ---
