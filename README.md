@@ -43,14 +43,6 @@ I'm passionate about Data Science, Artificial Intelligence, and Software Develop
 
 ---
 
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pathum74&theme=algolia&no-frame=true&row=1&column=6" />
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=pathum74&label=Profile%20Views&color=blue&style=flat" />
 </div>
